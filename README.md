@@ -4,7 +4,7 @@ YOLOV4 model trainned
 
 
 
-video_link ==:  https://youtu.be/1YkyD0WTcws
+output_video_link ==:  https://youtu.be/1YkyD0WTcws
 
 
 
