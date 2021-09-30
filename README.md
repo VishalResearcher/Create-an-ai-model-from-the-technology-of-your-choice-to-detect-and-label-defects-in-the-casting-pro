@@ -3,8 +3,12 @@
 YOLOV4 model trainned
 
 
-
+trainned model 
 output_video_link ==:  https://youtu.be/1YkyD0WTcws
+
+
+jetson_nnano::
+output_vidoe_link::-  https://youtu.be/cdowSbwbC3o
 
 
 
