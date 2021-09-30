@@ -12,6 +12,13 @@ output_vidoe_link::-  https://youtu.be/cdowSbwbC3o
 
 
 
+
+IMAGE ANNOTATION 
+
+software :  https://cvat.org/
+
+
+
 Requirements for Windows
 CMake >= 3.18: https://cmake.org/download/
 Powershell (already installed on windows): https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershel
@@ -35,11 +42,6 @@ there are mainly two categories:-
 
 2) NoDefective (COLOR GREEN) 
 
-
-
-IMAGE ANNOTATION 
-
-software :  https://cvat.org/
 
 then 
 
