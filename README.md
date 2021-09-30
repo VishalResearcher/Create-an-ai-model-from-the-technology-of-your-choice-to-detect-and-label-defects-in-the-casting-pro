@@ -7,7 +7,7 @@ trainned model
 output_video_link ==:  https://youtu.be/1YkyD0WTcws
 
 
-jetson_nnano::
+jetson_nnano+yolov4_detection::
 output_vidoe_link::-  https://youtu.be/cdowSbwbC3o
 
 
